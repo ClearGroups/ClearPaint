@@ -7,8 +7,7 @@ A simple (local) graphics editor without tracking and telemetry. Support for Rus
 - Собственное расширение .clep
 - Сохранение настроек каждого документа с помощью конфигурации. Конфиг появляется в папке ClearConfig в подпапке ClearPaint, его удалять нельзя!
 - Переключение языков
-- Изменение цветов текста и фона
-- Изменение стиля рисования
+- Изменение цветов пера и фона
 - Отображение несохранённых изменений
 - Простой интерфейс
 
@@ -25,11 +24,9 @@ A simple (local) graphics editor without tracking and telemetry. Support for Rus
 - Own extension .clep
 - Saving the settings of each document using configuration. The config appears in the ClearConfig folder in the ClearPaint subfolder, it cannot be deleted!
 - Language switching
-- Change text and background colors
-- Changing the drawing style
+- Change pen and background colors
 - Display of unsaved changes
 - Simple interface
-
 # Installation
 
 Download it ClearWord.exe from [Releases] (https://github.com/ClearGroups/ClearPaint/releases ) and launch it.
