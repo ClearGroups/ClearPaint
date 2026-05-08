@@ -13,7 +13,7 @@ A simple (local) graphics editor without tracking and telemetry. Support for Rus
 
 # Установка
 
-Скачай ClearWord.exe из [Releases] (https://github.com/ClearGroups/ClearPaint/releases) и запусти.
+Скачай ClearPaint.exe из [Releases] (https://github.com/ClearGroups/ClearPaint/releases) и запусти.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -29,4 +29,4 @@ A simple (local) graphics editor without tracking and telemetry. Support for Rus
 - Simple interface
 # Installation
 
-Download it ClearWord.exe from [Releases] (https://github.com/ClearGroups/ClearPaint/releases ) and launch it.
+Download it ClearPaint.exe from [Releases] (https://github.com/ClearGroups/ClearPaint/releases ) and launch it.
